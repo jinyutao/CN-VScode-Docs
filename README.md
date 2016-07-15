@@ -59,6 +59,8 @@ Microsoft Visual Studio Code 中文手册
 * OverView+Jeason
 * The Basics+Swizard
 * Editing Evolved+heshenghuan
+* C++ + imbaqian
+* Javascript+Styx
 * 你正在翻译的文章+你的名字
 
 ## 项目翻译目录
@@ -92,9 +94,9 @@ Microsoft Visual Studio Code 中文手册
   * [C++](https://code.visualstudio.com/docs/languages/cpp)
   * [JSON](https://code.visualstudio.com/docs/languages/json)
   * ~~[HTML](https://code.visualstudio.com/docs/languages/html)~~
-  * [PHP](https://code.visualstudio.com/docs/languages/php)
+  * ~~[PHP](https://code.visualstudio.com/docs/languages/php)~~
   * [Markdown](https://code.visualstudio.com/docs/languages/markdown)
-  * [TypeScript](https://code.visualstudio.com/docs/languages/typescript)
+  * ~~[TypeScript](https://code.visualstudio.com/docs/languages/typescript)~~
   * [CSS, Sass and Less](https://code.visualstudio.com/docs/languages/css)
   * [Dockerfile](https://code.visualstudio.com/docs/languages/dockerfile)
 
@@ -141,6 +143,8 @@ Microsoft Visual Studio Code 中文手册
 - [heshenghuan](http://heshenghuan.github.io/)
 - [Alexi.F](http://alexifeng.com/)
 - [jinyutao](https://github.com/jinyutao)
+- [yuxuefeng](https://github.com/twem007)
+- [chenxinlong](http://github.com/chenxinlong)
 - 你的名字
 
 （Fork 之后自行添加到最后）
